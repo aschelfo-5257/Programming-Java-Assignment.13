@@ -1,6 +1,6 @@
 ## How to Display the Image in Java?
 
-To display an image in a Java application using JavaFX, you generally follow these steps:
+To display an image in a Java application using JavaFX, you generally follow these steps: :framed_picture:
 
 1. **Import JavaFX classes:** You’ll need classes like Image, ImageView, Stage, Scene, and StackPane from the javafx.* packages.
 
